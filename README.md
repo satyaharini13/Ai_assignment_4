@@ -16,15 +16,6 @@ This project implements classic Constraint Satisfaction Problems (CSP):
 * Constraint Checking
 * Recursive Search
 
-## How to Run
 
-```bash
-python australia_map.py
-python telangana_map.py
-python sudoku_solver.py
-python cryptarithm.py
-```
 
-## Author
 
-Your Name
